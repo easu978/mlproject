@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 catboost
 xgboost==1.7.4
+dill
 #-e .
